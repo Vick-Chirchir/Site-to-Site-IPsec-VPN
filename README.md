@@ -44,8 +44,21 @@ Static Routing and Interface Configuration (ISP Router):  <br/>
 <img src="https://i.imgur.com/PHEvzV4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Phase 1 (ISAKMP) and Phase 2 (IPsec) setup (Router R2):  <br/>
+<img src="https://i.imgur.com/zpepP2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Interface Config & NAT exemption (Router R2): <br/>
+<img src="https://i.imgur.com/kY4PIJT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configuration of Static routes and NAT overload (Router R2):  <br/>
+<img src="https://i.imgur.com/QmrJdN1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configuring VPN-ACL and NAT-ACL (Router R2):  <br/>
+<img src="https://i.imgur.com/vIjn4kF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
