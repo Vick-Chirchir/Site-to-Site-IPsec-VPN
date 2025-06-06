@@ -20,7 +20,7 @@ Site A uses the network 192.168.1.0/24, while Site B uses 192.168.2.0/24. Each s
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Network Design: <br/>
 <img src="https://i.imgur.com/4uZnmdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
