@@ -5,7 +5,8 @@
 <h2>Description</h2>
 In this project, I configured a Site-to-Site IPsec VPN between two branch offices—Site A and Site B—to securely connect two separate internal networks over the public internet using Cisco ISR 4331 routers.
 
-Site A uses the network 192.168.1.0/24, while Site B uses 192.168.2.0/24. Each site is connected to an ISP router via a point-to-point WAN link (100.100.100.0/30 for Site A and 200.200.200.0/30 for Site B). The IPsec VPN tunnel was established between the Gig0/0 interfaces of the routers to allow secure communication across sites.
+Site A uses the network 192.168.1.0/24, while Site B uses 192.168.2.0/24. Each site is connected to an ISP router via a point-to-point WAN link (100.100.100.0/30 for Site A and 200.200.200.0/30 for Site B). The IPsec VPN tunnel was established between the Gigabit Ethernet 0/0 interfaces of the routers to allow secure communication across sites.
+This project enhanced my understanding of VPN technologies, Cisco IOS configuration, and secure WAN communication for enterprise networks.
 <br />
 
 
