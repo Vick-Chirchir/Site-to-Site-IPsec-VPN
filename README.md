@@ -24,24 +24,24 @@ Network Design: <br/>
 <img src="https://i.imgur.com/4uZnmdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Phase 1 (ISAKMP) and Phase 2 (IPsec) setup:  <br/>
+Phase 1 (ISAKMP) and Phase 2 (IPsec) setup (Router R1):  <br/>
 <img src="https://i.imgur.com/MQ82SLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Interface Config & NAT exemption (Router R1): <br/>
 <img src="https://i.imgur.com/KPePkun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Configuration of Static routes and NAT overload (Router R1):  <br/>
 <img src="https://i.imgur.com/hgTCMnw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Configuring VPN-ACL and NAT-ACL (Router R1):  <br/>
 <img src="https://i.imgur.com/PHnPeA5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Static Routing and Interface Configuration (ISP Router):  <br/>
+<img src="https://i.imgur.com/PHEvzV4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
