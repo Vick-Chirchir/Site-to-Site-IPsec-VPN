@@ -60,6 +60,14 @@ Configuration of Static routes and NAT overload (Router R2):  <br/>
 Configuring VPN-ACL and NAT-ACL (Router R2):  <br/>
 <img src="https://i.imgur.com/vIjn4kF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Verify that the tunnel is established (Router R1):  <br/>
+<img src="https://i.imgur.com/De4fZD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Verify that data is bi-directionally encrypted (Router R1):  <br/>
+<img src="https://i.imgur.com/5SJQNlp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
@@ -70,7 +78,8 @@ Configuring VPN-ACL and NAT-ACL (Router R2):  <br/>
 # text in gray
 @@ text in purple (and bold)@@
 ```
---!>
+
 Autofill
 
 ;
+--!>
