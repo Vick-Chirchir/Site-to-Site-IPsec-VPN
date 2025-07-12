@@ -22,51 +22,51 @@ This project enhanced my understanding of VPN technologies, Cisco IOS configurat
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/4uZnmdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4uZnmdZ.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Phase 1 (ISAKMP) and Phase 2 (IPsec) setup (Router R1):  <br/>
-<img src="https://i.imgur.com/MQ82SLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MQ82SLC.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Interface Config & NAT exemption (Router R1): <br/>
-<img src="https://i.imgur.com/KPePkun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KPePkun.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuration of Static routes and NAT overload (Router R1):  <br/>
-<img src="https://i.imgur.com/hgTCMnw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hgTCMnw.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuring VPN-ACL and NAT-ACL (Router R1):  <br/>
-<img src="https://i.imgur.com/PHnPeA5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PHnPeA5.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Static Routing and Interface Configuration (ISP Router):  <br/>
-<img src="https://i.imgur.com/PHEvzV4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PHEvzV4.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Phase 1 (ISAKMP) and Phase 2 (IPsec) setup (Router R2):  <br/>
-<img src="https://i.imgur.com/zpepP2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zpepP2Y.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Interface Config & NAT exemption (Router R2): <br/>
-<img src="https://i.imgur.com/kY4PIJT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kY4PIJT.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuration of Static routes and NAT overload (Router R2):  <br/>
-<img src="https://i.imgur.com/QmrJdN1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QmrJdN1.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuring VPN-ACL and NAT-ACL (Router R2):  <br/>
-<img src="https://i.imgur.com/vIjn4kF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vIjn4kF.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify that the tunnel is established (Router R1):  <br/>
-<img src="https://i.imgur.com/De4fZD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/De4fZD8.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify that data is bi-directionally encrypted (Router R1):  <br/>
-<img src="https://i.imgur.com/5SJQNlp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5SJQNlp.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
